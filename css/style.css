@@ -1,0 +1,17 @@
+
+:root{
+  --primary-color: "#9C27B0";
+  --secondary-color: "#BA68C8";
+  --accent-color: "#5E35B1";
+  --error-color: "#f44336";
+  --warning-color: "#ffeb3b";
+  --info-color: "#2196f3";
+  --success-color: "#4caf50";
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
