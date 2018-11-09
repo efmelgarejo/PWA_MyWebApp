@@ -2,5 +2,5 @@
 
 Mi sitio web personal desarollado en HTML, CSS y JS
 
-[Ver en funcionamiento](https://efmelgarejo.github.io/PWA_MyWebApp/)
+[Ver en funcionamiento](https://efmelgarejo.github.io/pwa_webapp/)
 
